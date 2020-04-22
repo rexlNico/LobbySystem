@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="cloudnet-bridge">
+    <CLASSES>
+      <root url="jar://F:/cloudnet-bridge.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
