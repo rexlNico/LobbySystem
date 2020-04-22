@@ -1,0 +1,11 @@
+main: de.rexlnico.lobbysystem.main.Main
+name: LobbySystem
+version: 1.0
+author: rexlNico
+website: http://dev.rexlNico.de
+#softdepend: [CloudNet-Bridge]
+
+commands:
+  teleport:
+  build:
+  dailyrewards:
